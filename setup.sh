@@ -13,7 +13,7 @@ sudo apt-get -y install wget
 
 echo "#####Getting the Application"
 
-wget  https://raw.githubusercontent.com/akshaykrjain/my_code_playground/master/hello.go
+wget  https://github.com/akshaykrjain/vagrant_go/blob/master/hello.go
 
 
 echo "#####Building the Application"
