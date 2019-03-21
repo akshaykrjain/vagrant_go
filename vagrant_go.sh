@@ -14,7 +14,11 @@ echo "######Get the stuff"
 git clone https://github.com/akshaykrjain/vagrant_go.git
 
 echo "######Installing and Starting"
-cd vagrant-go; vagrant up
+cd vagrant-go
+
+vagrant init
+
+vagrant up
 
 echo "####Done.. Please verify by using"
 echo "curl <ip of vagrant box>:8080/hello/by/go/from/Vagrant"
