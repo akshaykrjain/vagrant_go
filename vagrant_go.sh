@@ -16,7 +16,7 @@ git clone https://github.com/akshaykrjain/vagrant_go.git
 echo "######Installing and Starting"
 cd vagrant_go
 
-vagrant init
+
 
 vagrant up
 
