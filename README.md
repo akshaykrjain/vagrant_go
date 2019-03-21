@@ -30,3 +30,7 @@ Ignore if already installed
 
 `curl <ip of vagrant box>:8080/hello/by/go/from/Vagrant `
 
+## Deploy a new change to your code
+* commit changes to `hello.go`
+* go to vagrant_go directory and run `vagrant reload`
+
