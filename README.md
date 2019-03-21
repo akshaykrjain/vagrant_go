@@ -1,7 +1,7 @@
 # vagrant_go
 A sample Go Application Deployed With Vagrant
 
-## Steps to Setup in Ubuntu. Replace apt-get with yum in Redhat/Centos/Fedora
+## Manual Steps to Setup in Ubuntu. Replace apt-get with yum in Redhat/Centos/Fedora
 Ignore if already installed
 
 * Install Virtual Box
@@ -23,7 +23,10 @@ Ignore if already installed
 
 `curl <ip of vagrant box>:8080/hello/by/go/from/Vagrant `
 
+## Steps(only 1 step) for Lazy Man like Me
 
+
+`wget https://raw.githubusercontent.com/akshaykrjain/vagrant_go/master/vagrant_go.sh; chmod +x vagrant_go.sh;sh vagrant_go.sh`
 
 
 
