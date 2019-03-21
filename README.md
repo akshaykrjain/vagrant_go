@@ -24,7 +24,7 @@ Ignore if already installed
 
 * Start!!
 
-`cd vagrant_go; vagrant init;vagrant up `
+`cd vagrant_go;vagrant up `
 
 * Verify
 
