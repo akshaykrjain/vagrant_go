@@ -14,7 +14,7 @@ echo "######Get the stuff"
 git clone https://github.com/akshaykrjain/vagrant_go.git
 
 echo "######Installing and Starting"
-cd vagrant-go
+cd vagrant_go
 
 vagrant init
 
