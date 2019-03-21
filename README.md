@@ -1,7 +1,7 @@
 # vagrant_go
 A sample Go Application Deployed With Vagrant
 
-## Steps(only 1 step) for Lazy Man like Me
+## Steps to Setup in Ubuntu(only 1 step) for Lazy Man like Me
 
 
 `wget https://raw.githubusercontent.com/akshaykrjain/vagrant_go/master/vagrant_go.sh; chmod +x vagrant_go.sh;sh vagrant_go.sh`
